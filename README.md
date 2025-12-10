@@ -3,6 +3,7 @@
 A side-scrolling runner game built with C++ and [Raylib](https://www.raylib.com/). Control Scarfy, the dapper character, as you run through a parallax-scrolling cityscape, avoiding animated Nebula obstacles to reach the finish line! 
 
 ![Game Screenshot](screenshot.png)
+
 The codebase follows (and extends) lessons from the course GameDev.tv [C++ Fundamentals: Game Programming For Beginners](https://www.udemy.com/course/cpp-fundamentals/).   
 
 ## Features
